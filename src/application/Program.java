@@ -27,6 +27,7 @@ public class Program {
 		
 		System.out.println("Area X:"+ areaX);
 		System.out.println("Area Y:"+ areaY);
+		System.out.println("Bom dia!");
 	}
 
 }
